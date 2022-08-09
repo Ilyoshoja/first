@@ -10,7 +10,7 @@ function Home() {
             alt=""
           />
         </div>
-        <div className="temp">27*C</div>
+        <div className="temp">32*C</div>
         <p>lerget to my stted fromer</p>
         
       </div>
