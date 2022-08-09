@@ -2,7 +2,9 @@ import React from 'react'
 
 function Resorching() {
   return (
-    <div>Resorching</div>
+    <div>Resorching
+        sdsdf
+    </div>
   )
 }
 
