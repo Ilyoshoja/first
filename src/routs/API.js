@@ -4,7 +4,6 @@ function API() {
   return (
     <div>55
       
-erawasdfasdf
     </div>
   )
 }
