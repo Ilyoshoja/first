@@ -12,6 +12,8 @@ function Home() {
         </div>
         <div className="temp">32*C</div>
         <p>lerget to my stted fromer</p>
+        <p>lerget to my stted fromer</p>
+
         
       </div>
     </div>
